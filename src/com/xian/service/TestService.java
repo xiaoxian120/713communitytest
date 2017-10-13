@@ -9,4 +9,13 @@ public class TestService {
     public static void main(String[] args) {
         System.out.println("哈哈........");
     }
+
+
+    /**
+     *  处理了IDEA的不必要的警告提示
+     * @param str
+     */
+    public void test(String str) {
+
+    }
 }
